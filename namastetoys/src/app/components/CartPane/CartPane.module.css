@@ -1,0 +1,88 @@
+.cartsidemodalcustomclass{
+    height: 100vh;
+}
+
+.cartsidemodalcustomoverlayclass{
+    /* border: 2px solid green; */
+}
+.heading{
+    text-align: center;
+    color: #334960;
+    margin-top: -8px;
+    margin-left: -206px;
+}
+.maindivn1{
+    display: flex;
+    height: 127px;
+    width: 339px;
+    
+    box-shadow: 0 4px 10px hsla(0,0%,58%,.2);
+    border: 1px solid #d9d9d9;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 37px;
+    margin-left: -13.5px;
+  
+}
+
+
+
+.maindivn1:hover{
+    
+        box-shadow: 0 6px 10px 0 hsla(0,0%,58%,.2), 0 6px 20px 0 hsla(0,0%,58%,.2);}
+
+.text{
+    font-size: 16px;
+    margin-top: 36px;
+    margin-left: 64px;
+    line-height: 0px;
+    color: #334960;
+}
+.imggecart{
+    margin-left: 5px;
+    height: 38px;
+    width: 49px;
+    margin-top: 38px;
+
+
+}
+.imggecart:hover {
+    transform: scale(1.2); /* Zoom in by 20% */
+    transition: transform 0.3s ease-in-out; /* Add a smooth transition */
+  }
+.qtl{
+    height: 30px;
+    width: 20px;
+    border: 2px solid black;
+}
+
+.rupessdiv{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.rupess{
+  
+    line-height: 6px;
+    padding-left: -18px;
+    padding-top: 55px;
+    font-size: 13px;
+    margin-left: -75px;
+
+
+}
+.imagecart1{
+    height: 12px;
+    width: 16px;
+    margin-top: 40px;
+    margin-left: 89px;
+    color: #334960;
+    cursor: pointer;
+}
+
+  .del{
+    margin-left: -67px;
+    font-size: 10px;
+    
+
+}
